@@ -46,4 +46,8 @@ npm run start-watch - Nodeman mode run
 
 ===== DEPLOYMENT
 There is a service that will let you deploy your application real quick "now.sh", which is called "https://zeit.co/home"
- 
+
+
+REFERENCE
+https://github.com/theoutlander/rest-api-workshop
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
