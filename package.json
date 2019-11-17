@@ -1,0 +1,28 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "=== How to build a REST API using NODE, Express, and Mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-watch": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhopals/node-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhopals/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/bhopals/node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11",
+    "nodemon": "^1.19.4",
+    "now": "^16.5.2"
+  }
+}
